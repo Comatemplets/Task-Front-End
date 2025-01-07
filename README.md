@@ -18,6 +18,7 @@
 
 **Install dependencies**: npm install
 **Run the app:**: npm run dev
+**to build tailwind css :**: npm run start-css
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
