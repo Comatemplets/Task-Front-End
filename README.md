@@ -10,7 +10,7 @@
 
 ## Demo
 
-[Live Demo]()
+[Live Demo](https://677cbcbb2f6fcc9794ccd98e--task-education.netlify.app/)
 
 ---
 
